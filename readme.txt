@@ -5,3 +5,5 @@ Git has mutable index called stage.
 Creating a new branch is quick and simple.
 
 Add merge Add merge, add merge.
+
+Without ff merge
