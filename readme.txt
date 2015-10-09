@@ -1,4 +1,6 @@
 # 分支temp提交
+--gitHome提交 
+
 
 测试stash暂存功能
 
